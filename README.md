@@ -60,8 +60,7 @@ Here are some examples of how to use the Chrome Extension Leads Tracker:
 ## Code Summary
 
 Code Summary
-The main functionality of the Chrome Extension Leads Tracker is implemented in the `index.js` file, which is located at:
-`C:\Users\Yuriy\Documents\GitHub\chromeExtension\chromeExtension\index.js`
+
 
 ### Key Code Elements:
 - **Leads Array**: 
